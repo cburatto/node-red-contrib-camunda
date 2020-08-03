@@ -1,5 +1,5 @@
 {
-    "name": "node-red-contrib-camunda",
+    "name": "@alpine-code/node-red-contrib-camunda",
     "version": "2.0.0",
     "description": "Camunda for Node-RED ",
     "main": "index.js",
@@ -11,7 +11,10 @@
         "type": "git",
         "url": "git+https://github.com/alpine-code/node-red-contrib-camunda.git"
     },
-    "author": "alpine-code",
+    "publishConfig": {
+        "access": "public"
+    },
+    "author": "ilzenzo",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/alpine-code/node-red-contrib-camunda/issues"
@@ -25,7 +28,7 @@
         "microservice"
     ],
     "dependencies": {
-        "alpine-code-sdk-js": "0.0.1",
+        "@alpine-code/alpine-code-sdk-js": "0.0.1",
         "camunda-external-task-client-js": "^2.0.0",
         "lodash": "^4.17.15",
         "uuid": "^3.3.2"

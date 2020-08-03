@@ -2,8 +2,8 @@
 
 [![Platform](https://img.shields.io/badge/platform-Node--RED-red)](https://nodered.org)
 ![License](https://img.shields.io/github/license/alpine-code/node-red-contrib-camunda.svg)
-![Release](https://img.shields.io/npm/v/node-red-contrib-camunda.svg)
-![NPM](https://img.shields.io/npm/dm/node-red-contrib-camunda.svg)
+![Release](https://img.shields.io/npm/v/@alpine-code/node-red-contrib-camunda.svg)
+![NPM](https://img.shields.io/npm/dm/@alpine-code/node-red-contrib-camunda.svg)
 [![Build Status](https://drone.alpine-code.com/api/badges/alpine-code/node-red-contrib-camunda/status.svg)](https://drone.alpine-code.com/alpine-code/node-red-contrib-camunda)
 
 This module leverages the [camunda-external-task-client-js](https://github.com/camunda/camunda-external-task-client-js) client library to bring Camunda awesomeness to Node-RED!
